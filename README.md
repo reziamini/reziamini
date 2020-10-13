@@ -11,5 +11,4 @@ And now I am 17 ;)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminireza-ir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
-
-[Telegram](https://t.me/RezaAmini_ir)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/RezaAmini_ir)](https://t.me/RezaAmini_ir)
