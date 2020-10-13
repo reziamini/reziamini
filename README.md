@@ -1,11 +1,10 @@
 ## Hi folks 👋
 
 ## Who am I?
-I'm Reza a young FullStack web developer with 4 years of experience.
+I'm Reza , I'm 17 and a young web developer with 4 years of experience.
 <br>
-I started programming when I was 13 (I was a kid 😅)
+I use PHP/Laravel, Livewire, AlpineJs and Sometimes Tailwind css to develop a project.
 <br>
-And now I am 17 ;)
 
 ## Languages which i use 
 <p>
@@ -15,11 +14,3 @@ And now I am 17 ;)
     
 - 📫 How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/RezaAmini_ir)](https://t.me/RezaAmini_ir)
-
-<details align="center">
-    <summary>
-        <b>More</b><br>
-    </summary>
-    <br>
-    
-</details>
