@@ -12,6 +12,7 @@ I use PHP/Laravel, Livewire, AlpineJs and Sometimes Tailwind css to develop a pr
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminireza-ir&layout=compact"/>
 </p>
     
+## I'm ready for remote projects    
 - 📫 How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/RezaAmini_ir)](https://t.me/RezaAmini_ir)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=rezaaminiroyal@gmail.com)](mailto:rezaaminiroyal@gmail.com)
