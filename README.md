@@ -8,7 +8,7 @@ I use PHP/Laravel, Livewire, AlpineJs and Sometimes Tailwind css to develop a pr
 
 ## Languages and Detail
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminireza-ir&show_icons=true&theme=vue"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminireza-ir&show_icons=true&count_private=true&theme=vue"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminireza-ir&layout=compact"/>
 </p>
     
