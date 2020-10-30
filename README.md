@@ -9,8 +9,8 @@ I use PHP/Laravel, Livewire, AlpineJs and Sometimes Tailwind css to develop a pr
 
 ## Languages and Detail
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminireza-ir&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=EB445E"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminireza-ir&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaamini-ir&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=EB445E"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaamini-ir&layout=compact"/>
 </p>
     
 ## I'm ready for remote projects    
