@@ -2,9 +2,9 @@
 What Have You done for open source community today?
 
 ## Who am I?
-I'm Reza , I'm 17 and a young web developer with 4 years of experience.
+I'm Reza, a young web developer with about 4 years of experience.
 <br>
-I use PHP/Laravel, Livewire, AlpineJs and Sometimes Tailwind css to develop a project.
+I use PHP/Laravel, Livewire, AlpineJs and Sometimes Tailwind css to develop a project, kind of TALL Stack Developer :)
 <br>
 
 ## Languages and Detail
