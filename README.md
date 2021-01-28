@@ -17,4 +17,4 @@ I use PHP/Laravel, Livewire, AlpineJs and Sometimes Tailwind css to develop a pr
 - 📫 How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/RezaAmini_ir)](https://t.me/RezaAmini_ir)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=rezaaminiroyal@gmail.com)](mailto:rezaaminiroyal@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Rezidev)](https://twitter.com/Rezidev)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ReziAmini)](https://twitter.com/Rezidev)
