@@ -2,7 +2,7 @@
 What have You done for open source community today?
 
 ## Who am I?
-I'm Reza, a young Back-end Developer with about 5 years of experience.
+I'm Reza, a young Backend Developer with about 5 years of experience.
 
 ## Languages and Detail
 <p>
